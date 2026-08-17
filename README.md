@@ -36,45 +36,12 @@
 
 ### Featured Work
 
-> Private/client repos — shown here as a summary instead of repo cards.
-
-| Project | What it is | Stack |
-|---|---|---|
-| **Infratel** | Enterprise PO/vendor/WCC/invoice workflow platform | `PHP` `MySQL` |
-| **AIP** | Staffing platform — backend + admin panel + mobile app | `PHP` `React` `Flutter` |
-| **LLM Tooling** | Production interview-scoring model served on Modal (A100 GPU) | `Python` `FastAPI` `Ollama` |
-| **AIClarity** *(internship)* | AI loan-processing & credit-analysis SaaS | `PHP` `MySQL` `OCR` |
-
----
-
-### Other Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td><a href="https://github.com/divyanshu1364/VideoTube"><img src="https://divyanshu1364-readme-stats.vercel.app/api/pin/?username=divyanshu1364&repo=VideoTube&theme=tokyonight&hide_border=true" /></a></td>
-<td><a href="https://github.com/divyanshu1364/AI-Virtul-Whiteboard"><img src="https://divyanshu1364-readme-stats.vercel.app/api/pin/?username=divyanshu1364&repo=AI-Virtul-Whiteboard&theme=tokyonight&hide_border=true" /></a></td>
-</tr>
-<tr>
-<td><a href="https://github.com/divyanshu1364/Docpulse_chat"><img src="https://divyanshu1364-readme-stats.vercel.app/api/pin/?username=divyanshu1364&repo=Docpulse_chat&theme=tokyonight&hide_border=true" /></a></td>
-<td><a href="https://github.com/divyanshu1364/Library-Management-System"><img src="https://divyanshu1364-readme-stats.vercel.app/api/pin/?username=divyanshu1364&repo=Library-Management-System&theme=tokyonight&hide_border=true" /></a></td>
-</tr>
-<tr>
-<td><a href="https://github.com/divyanshu1364/Farmer-s-ION-Digital"><img src="https://divyanshu1364-readme-stats.vercel.app/api/pin/?username=divyanshu1364&repo=Farmer-s-ION-Digital&theme=tokyonight&hide_border=true" /></a></td>
-<td><a href="https://github.com/divyanshu1364/Navigator"><img src="https://divyanshu1364-readme-stats.vercel.app/api/pin/?username=divyanshu1364&repo=Navigator&theme=tokyonight&hide_border=true" /></a></td>
-</tr>
-<tr>
-<td><a href="https://github.com/divyanshu1364/SkinStore"><img src="https://divyanshu1364-readme-stats.vercel.app/api/pin/?username=divyanshu1364&repo=SkinStore&theme=tokyonight&hide_border=true" /></a></td>
-<td><a href="https://github.com/divyanshu1364/react-projects"><img src="https://divyanshu1364-readme-stats.vercel.app/api/pin/?username=divyanshu1364&repo=react-projects&theme=tokyonight&hide_border=true" /></a></td>
-</tr>
-<tr>
-<td><a href="https://github.com/divyanshu1364/Reminder-Apllication"><img src="https://divyanshu1364-readme-stats.vercel.app/api/pin/?username=divyanshu1364&repo=Reminder-Apllication&theme=tokyonight&hide_border=true" /></a></td>
-<td><a href="https://github.com/divyanshu1364/Prasunet_WD_02"><img src="https://divyanshu1364-readme-stats.vercel.app/api/pin/?username=divyanshu1364&repo=Prasunet_WD_02&theme=tokyonight&hide_border=true" /></a></td>
-</tr>
-</table>
-
-</div>
+| Project | Company | What it is | Stack |
+|---|---|---|---|
+| [**Infratel**](https://meraqui.com/infratel/) | Meraqui | Enterprise PO/vendor/WCC/invoice workflow platform | `PHP` `MySQL` |
+| [**AIP**](https://meraqui.com/react/) | Meraqui | Staffing platform — backend + admin panel + mobile app | `PHP` `React` `Flutter` |
+| **LLM Tooling** | Meraqui *(internal)* | Production interview-scoring model served on Modal (A100 GPU) | `Python` `FastAPI` `Ollama` |
+| **AIClarity** *(internship)* | Smartech Software Solution — client: Kajaria | AI loan-processing & credit-analysis SaaS | `PHP` `MySQL` `OCR` |
 
 ---
 
