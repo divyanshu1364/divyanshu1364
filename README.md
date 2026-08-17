@@ -45,7 +45,7 @@ AI candidate-screening chatbot integrated into AIP — Claude API + custom knowl
 **LLM Tooling** — Meraqui *(internal)*
 Prompt-engineered LLM evaluation & production deployment — interview-scoring model served on Modal (A100 GPU) — plus an OCR+VLM document-reconstruction pipeline (photo → editable HTML), now exploring a LangGraph-based agentic architecture · `Python` `FastAPI` `Ollama` `Modal` `LangGraph`
 
-**AIClarity** — Smartech Software Solution *(client: Kajaria, internship)*
+**[AIClarity ↗](https://aiclarity.in/)** — Smartech Software Solution *(client: Kajaria, internship)*
 AI loan-processing & credit-analysis SaaS · `PHP` `MySQL` `OCR`
 
 ---
