@@ -42,11 +42,11 @@ Staffing platform — backend + admin panel + mobile app · `PHP` `React` `Flutt
 **[KaramBot ↗](https://karamai.meraqui.com/)** — Meraqui
 AI candidate-screening chatbot integrated into AIP — Claude API + custom knowledge base, conversation persistence, structured screening flow · `PHP` `React` `Claude API`
 
-**LLM Tooling** — Meraqui *(internal)*
-Prompt-engineered LLM evaluation & production deployment — interview-scoring model served on Modal (A100 GPU) — plus an OCR+VLM document-reconstruction pipeline (photo → editable HTML), now exploring a LangGraph-based agentic architecture · `Python` `FastAPI` `Ollama` `Modal` `LangGraph`
-
 **[AIClarity ↗](https://aiclarity.in/)** — Smartech Software Solution *(client: Kajaria, internship)*
 AI loan-processing & credit-analysis SaaS · `PHP` `MySQL` `OCR`
+
+**AI/ML Infrastructure** — Meraqui *(internal)*
+Prompt-engineered LLM evaluation & production deployment — interview-scoring model served on Modal (A100 GPU) — plus an OCR+VLM document-reconstruction pipeline (photo → editable HTML), now exploring a LangGraph-based agentic architecture · `Python` `FastAPI` `Ollama` `Modal` `LangGraph`
 
 ---
 
