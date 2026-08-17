@@ -39,7 +39,7 @@
 | Project | Company | What it is | Stack |
 |---|---|---|---|
 | [**Infratel**](https://meraqui.com/infratel/) | Meraqui | Enterprise PO/vendor/WCC/invoice workflow platform | `PHP` `MySQL` |
-| [**AIP**](https://meraqui.com/react/) | Meraqui | Staffing platform — backend + admin panel + mobile app | `PHP` `React` `Flutter` |
+| [**AIP**](https://aip.meraqui.com/) | Meraqui | Staffing platform — backend + admin panel + mobile app | `PHP` `React` `Flutter` |
 | **LLM Tooling** | Meraqui *(internal)* | Production interview-scoring model served on Modal (A100 GPU) | `Python` `FastAPI` `Ollama` |
 | **AIClarity** *(internship)* | Smartech Software Solution — client: Kajaria | AI loan-processing & credit-analysis SaaS | `PHP` `MySQL` `OCR` |
 
