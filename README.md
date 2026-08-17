@@ -40,7 +40,7 @@ Enterprise PO/vendor/WCC/invoice workflow platform · `PHP` `MySQL`
 Staffing platform — backend + admin panel + mobile app · `PHP` `React` `Flutter`
 
 **LLM Tooling** — Meraqui *(internal)*
-Production interview-scoring model served on Modal (A100 GPU) · `Python` `FastAPI` `Ollama`
+Prompt-engineered LLM evaluation & production deployment — interview-scoring model served on Modal (A100 GPU), plus side-by-side model comparison tooling · `Python` `FastAPI` `Ollama` `Modal`
 
 **AIClarity** — Smartech Software Solution *(client: Kajaria, internship)*
 AI loan-processing & credit-analysis SaaS · `PHP` `MySQL` `OCR`
