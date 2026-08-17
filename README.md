@@ -36,19 +36,45 @@
 
 ### Featured Work
 
-> Most of these are private/client repos, so shown here as write-ups instead of repo cards.
+> Private/client repos — shown here as a summary instead of repo cards.
 
-**Infratel** — Enterprise workflow management platform
-End-to-end PO lifecycle, vendor/MSP payment routing, WCC (work completion certificate) approval chains, invoicing, and TAT-based escalation reminders for a multi-role org (ZDM → BH → CBO). `PHP` `MySQL` `jSpreadsheet`
+| Project | What it is | Stack |
+|---|---|---|
+| **Infratel** | Enterprise PO/vendor/WCC/invoice workflow platform | `PHP` `MySQL` |
+| **AIP** | Staffing platform — backend + admin panel + mobile app | `PHP` `React` `Flutter` |
+| **LLM Tooling** | Production interview-scoring model served on Modal (A100 GPU) | `Python` `FastAPI` `Ollama` |
+| **AIClarity** *(internship)* | AI loan-processing & credit-analysis SaaS | `PHP` `MySQL` `OCR` |
 
-**AIP** — Staffing platform (Meraqui)
-PHP backend APIs + React admin panel + Flutter mobile app, with WhatsApp (Dovesoft BSP) and IVR (Rootle.ai) integrations for candidate outreach. `PHP` `React` `Flutter`
+---
 
-**LLM Tooling** — Production AI/ML infra
-Prompt-engineered interview-scoring model (Qwen2.5-7B baseline beat every fine-tuning attempt) deployed on **Modal** (A100 GPU) behind a FastAPI endpoint, plus a Hinglish→English NLP/NER model and a side-by-side model comparison panel. `Python` `FastAPI` `Ollama` `Modal`
+### Other Projects
 
-**AIClarity** — AI loan-processing SaaS *(internship project)*
-Contributed to an AI-enabled loan processing & credit-analysis platform — CAM presentation formatting, EMI/eligibility calculation fixes, password-protected document handling, and CIBIL/Zoho workflow support. `PHP` `MySQL` `OCR`
+<div align="center">
+
+<table>
+<tr>
+<td><a href="https://github.com/divyanshu1364/VideoTube"><img src="https://divyanshu1364-readme-stats.vercel.app/api/pin/?username=divyanshu1364&repo=VideoTube&theme=tokyonight&hide_border=true" /></a></td>
+<td><a href="https://github.com/divyanshu1364/AI-Virtul-Whiteboard"><img src="https://divyanshu1364-readme-stats.vercel.app/api/pin/?username=divyanshu1364&repo=AI-Virtul-Whiteboard&theme=tokyonight&hide_border=true" /></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/divyanshu1364/Docpulse_chat"><img src="https://divyanshu1364-readme-stats.vercel.app/api/pin/?username=divyanshu1364&repo=Docpulse_chat&theme=tokyonight&hide_border=true" /></a></td>
+<td><a href="https://github.com/divyanshu1364/Library-Management-System"><img src="https://divyanshu1364-readme-stats.vercel.app/api/pin/?username=divyanshu1364&repo=Library-Management-System&theme=tokyonight&hide_border=true" /></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/divyanshu1364/Farmer-s-ION-Digital"><img src="https://divyanshu1364-readme-stats.vercel.app/api/pin/?username=divyanshu1364&repo=Farmer-s-ION-Digital&theme=tokyonight&hide_border=true" /></a></td>
+<td><a href="https://github.com/divyanshu1364/Navigator"><img src="https://divyanshu1364-readme-stats.vercel.app/api/pin/?username=divyanshu1364&repo=Navigator&theme=tokyonight&hide_border=true" /></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/divyanshu1364/SkinStore"><img src="https://divyanshu1364-readme-stats.vercel.app/api/pin/?username=divyanshu1364&repo=SkinStore&theme=tokyonight&hide_border=true" /></a></td>
+<td><a href="https://github.com/divyanshu1364/react-projects"><img src="https://divyanshu1364-readme-stats.vercel.app/api/pin/?username=divyanshu1364&repo=react-projects&theme=tokyonight&hide_border=true" /></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/divyanshu1364/Reminder-Apllication"><img src="https://divyanshu1364-readme-stats.vercel.app/api/pin/?username=divyanshu1364&repo=Reminder-Apllication&theme=tokyonight&hide_border=true" /></a></td>
+<td><a href="https://github.com/divyanshu1364/Prasunet_WD_02"><img src="https://divyanshu1364-readme-stats.vercel.app/api/pin/?username=divyanshu1364&repo=Prasunet_WD_02&theme=tokyonight&hide_border=true" /></a></td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -73,7 +99,7 @@ Contributed to an AI-enabled loan processing & credit-analysis platform — CAM 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/divyanshu1364/divyanshu1364/output/github-contribution-grid-snake.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/divyanshu1364/divyanshu1364/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
 </div>
 
