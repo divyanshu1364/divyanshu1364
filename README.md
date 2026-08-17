@@ -2,9 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Divyanshu+%F0%9F%91%8B;Full+Stack+%2B+AI%2FML+Developer;PHP+%C2%B7+React+%C2%B7+Flutter+%C2%B7+Python;Building+production+LLM+tooling" alt="Typing SVG" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=divyanshu1364&color=6C63FF&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/divyanshu1364?label=Follow&style=social)](https://github.com/divyanshu1364)
-
 </div>
 
 ---
